@@ -32,4 +32,24 @@ Non-primitive datatypes:
 Array - object
 Function - function(object)
 Object - object
-*/
+
+
+
+----------------------------
+Stack(Primitive DataType), Heap(Non-Primitive DataType)*/
+let myName= "Sidhant"
+let tempName= myName
+tempName= "Sidhu"
+console.log(myName)
+console.log(tempName)
+
+let userOne={
+    email:"sidhant@game.com",
+    upi:"sid@7"
+}
+let userTwo= userOne
+
+userTwo.email="sid@js.com"
+console.log(userOne)
+console.log(userTwo);
+
