@@ -18,3 +18,18 @@ let age=21
 console.log(typeof null)//null is a object Type
 console.log(typeof undefined);// undefined type
 
+/**
+ * DataType- ReturnType
+ Primitive datatypes:
+String - string
+Number - number
+Boolean - Boolean
+Null - object(****)
+Undefined - undefined
+BigInt - bigint
+
+Non-primitive datatypes:
+Array - object
+Function - function(object)
+Object - object
+*/
