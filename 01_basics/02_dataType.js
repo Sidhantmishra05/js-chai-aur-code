@@ -5,7 +5,7 @@
 // number = 18,437,736,874,454,810,627 (that is, 2**64 - 2**53 + 3) values
 //BigInt 
 //boolean= true/false
-//string= " " (2**53 -1) values
+//string= " " Represents a sequence of characters No specific range limit, but practical limits depend on memory and system resources.
 //null = standalone value
 //undefine 
 //symbol = unique
