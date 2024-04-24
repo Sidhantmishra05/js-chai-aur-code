@@ -20,7 +20,7 @@ const mynm1=myArr.slice(1,3)
 console.log(mynm1);
 console.log("B",myArr);
 const mynm2=myArr.splice(1,3)
-console.log(myArr);
+console.log("C",myArr);
 console.log(mynm2);
 //So basically when splice is used their is a change in original array whereas when slice is used their is no change in original array. Also in slice their is no range included whereas in splice range is included.
 
